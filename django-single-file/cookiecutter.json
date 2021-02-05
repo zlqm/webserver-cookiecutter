@@ -1,0 +1,5 @@
+{
+    "project_name": "django_app",
+    "secret_key": "{{ random_ascii_string(48, punctuation=True) }}",
+    "_extensions": ["cookiecutter.extensions.RandomStringExtension"]
+}

@@ -1,0 +1,4 @@
+Django
+django-log-request-id
+p_config>=1.3.0
+celery>=5.0.0
